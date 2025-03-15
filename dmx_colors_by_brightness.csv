@@ -1,0 +1,1001 @@
+Index,Name,R DMX,G DMX,B DMX,W DMX,A DMX,sR,sG,sB,Brightness,Brightness Name,Color Group,Category,Temperature
+1,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=170 (Mid),0,0,0,0,170,85,63,0,85,Dim,deep orange,warm,very-warm
+2,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=255 (Full),0,0,0,0,255,127,95,0,85,Dim,deep orange,warm,very-warm
+15,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),0,0,85,0,170,85,63,85,85,Dim,gray,neutral,neutral
+16,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=255 (Full),0,0,85,0,255,127,95,85,85,Dim,deep red,warm,neutral
+29,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),0,0,170,0,85,42,31,170,85,Dim,blue,cool,very-cool
+30,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),0,0,170,0,170,85,63,170,85,Dim,blue,cool,cool
+31,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=255 (Full),0,0,170,0,255,127,95,170,85,Dim,blue,cool,neutral
+44,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=85 (Dim),0,0,255,0,85,42,31,255,85,Dim,blue,cool,very-cool
+45,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=170 (Mid),0,0,255,0,170,85,63,255,85,Dim,blue,cool,cool
+46,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=255 (Full),0,0,255,0,255,127,95,255,85,Dim,blue,cool,cool
+251,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=85 (Dim),85,0,0,0,85,127,31,0,85,Dim,deep red-orange,warm,very-warm
+252,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=170 (Mid),85,0,0,0,170,170,63,0,85,Dim,red-orange,warm,very-warm
+253,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=255 (Full),85,0,0,0,255,212,95,0,85,Dim,red-orange,warm,very-warm
+266,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),85,0,85,0,85,127,31,85,85,Dim,deep red,warm,neutral
+267,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),85,0,85,0,170,170,63,85,85,Dim,red,warm,warm
+268,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=255 (Full),85,0,85,0,255,212,95,85,170,Mid,red,warm,warm
+3,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=0 (Off),0,0,0,85,0,42,42,42,85,Dim,dark gray,neutral,neutral
+4,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),0,0,0,85,85,85,74,42,85,Dim,deep orange,warm,warm
+5,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),0,0,0,85,170,127,106,42,85,Dim,deep orange,warm,very-warm
+6,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=255 (Full),0,0,0,85,255,170,138,42,170,Mid,orange,warm,very-warm
+7,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=0 (Off),0,0,0,170,0,85,85,85,85,Dim,gray,neutral,neutral
+8,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),0,0,0,170,85,127,116,85,85,Dim,deep red,warm,neutral
+9,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),0,0,0,170,170,170,148,85,170,Mid,orange,warm,warm
+10,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=255 (Full),0,0,0,170,255,212,180,85,170,Mid,orange,warm,warm
+11,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=0 (Off),0,0,0,255,0,127,127,127,85,Dim,gray,neutral,neutral
+12,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=85 (Dim),0,0,0,255,85,170,159,127,170,Mid,magenta,cool,neutral
+13,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=170 (Mid),0,0,0,255,170,212,191,127,170,Mid,orange,warm,warm
+14,R=0 (Off) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=255 (Full),0,0,0,255,255,255,223,127,255,Full,orange,warm,warm
+17,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),0,0,85,85,0,42,42,127,85,Dim,deep blue,cool,very-cool
+18,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),0,0,85,85,85,85,74,127,85,Dim,deep blue,cool,neutral
+19,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),0,0,85,85,170,127,106,127,85,Dim,gray,neutral,neutral
+20,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),0,0,85,85,255,170,138,127,170,Mid,magenta,cool,neutral
+21,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),0,0,85,170,0,85,85,170,85,Dim,blue,cool,cool
+22,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),0,0,85,170,85,127,116,170,85,Dim,blue,cool,neutral
+23,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),0,0,85,170,170,170,148,170,170,Mid,white,neutral,neutral
+24,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),0,0,85,170,255,212,180,170,170,Mid,magenta,cool,neutral
+32,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),0,0,170,85,0,42,42,212,85,Dim,blue,cool,very-cool
+33,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),0,0,170,85,85,85,74,212,85,Dim,blue,cool,cool
+34,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),0,0,170,85,170,127,106,212,85,Dim,blue,cool,cool
+35,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),0,0,170,85,255,170,138,212,170,Mid,blue,cool,neutral
+36,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),0,0,170,170,0,85,85,255,85,Dim,blue,cool,cool
+37,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),0,0,170,170,85,127,116,255,170,Mid,blue,cool,cool
+38,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),0,0,170,170,170,170,148,255,170,Mid,blue,cool,cool
+39,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),0,0,170,170,255,212,180,255,170,Mid,pastel cyan,cool,neutral
+47,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=0 (Off),0,0,255,85,0,42,42,255,85,Dim,blue,cool,very-cool
+48,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),0,0,255,85,85,85,74,255,85,Dim,blue,cool,cool
+49,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),0,0,255,85,170,127,106,255,170,Mid,blue,cool,cool
+50,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=255 (Full),0,0,255,85,255,170,138,255,170,Mid,blue,cool,cool
+51,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=0 (Off),0,0,255,170,0,85,85,255,85,Dim,blue,cool,cool
+52,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),0,0,255,170,85,127,116,255,170,Mid,blue,cool,cool
+53,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),0,0,255,170,170,170,148,255,170,Mid,blue,cool,cool
+54,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=255 (Full),0,0,255,170,255,212,180,255,170,Mid,pastel cyan,cool,neutral
+59,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=0 (Off),0,85,0,0,0,0,85,0,85,Dim,deep green,cool,cool
+60,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=85 (Dim),0,85,0,0,85,42,116,0,85,Dim,deep yellow-green,warm,very-warm
+61,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=170 (Mid),0,85,0,0,170,85,148,0,85,Dim,deep yellow-green,warm,very-warm
+62,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=255 (Full),0,85,0,0,255,127,180,0,170,Mid,yellow-green,warm,very-warm
+63,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=0 (Off),0,85,0,85,0,42,127,42,85,Dim,deep green,cool,cool
+64,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),0,85,0,85,85,85,159,42,85,Dim,deep yellow-green,warm,warm
+65,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),0,85,0,85,170,127,191,42,170,Mid,yellow-green,warm,very-warm
+66,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=255 (Full),0,85,0,85,255,170,223,42,170,Mid,yellow-green,warm,very-warm
+75,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=0 (Off),0,85,85,0,0,0,85,85,85,Dim,deep cyan,cool,very-cool
+76,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),0,85,85,0,85,42,116,85,85,Dim,deep teal,cool,cool
+77,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),0,85,85,0,170,85,148,85,85,Dim,deep green,cool,cool
+78,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=255 (Full),0,85,85,0,255,127,180,85,170,Mid,green,cool,neutral
+79,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),0,85,85,85,0,42,127,127,85,Dim,deep cyan,cool,very-cool
+80,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),0,85,85,85,85,85,159,127,170,Mid,deep teal,cool,neutral
+81,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),0,85,85,85,170,127,191,127,170,Mid,green,cool,cool
+82,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),0,85,85,85,255,170,223,127,170,Mid,green,cool,neutral
+91,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=0 (Off),0,85,170,0,0,0,85,170,85,Dim,blue,cool,very-cool
+92,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),0,85,170,0,85,42,116,170,85,Dim,blue,cool,very-cool
+93,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),0,85,170,0,170,85,148,170,170,Mid,cyan,cool,cool
+94,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=255 (Full),0,85,170,0,255,127,180,170,170,Mid,teal,cool,neutral
+95,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),0,85,170,85,0,42,127,212,85,Dim,blue,cool,very-cool
+96,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),0,85,170,85,85,85,159,212,170,Mid,cyan,cool,cool
+97,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),0,85,170,85,170,127,191,212,170,Mid,cyan,cool,cool
+98,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),0,85,170,85,255,170,223,212,170,Mid,teal,cool,neutral
+107,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=0 (Off),0,85,255,0,0,0,85,255,85,Dim,blue,cool,very-cool
+108,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=85 (Dim),0,85,255,0,85,42,116,255,85,Dim,blue,cool,very-cool
+109,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=170 (Mid),0,85,255,0,170,85,148,255,170,Mid,blue,cool,cool
+110,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=255 (Full),0,85,255,0,255,127,180,255,170,Mid,cyan,cool,cool
+111,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=0 (Off),0,85,255,85,0,42,127,255,85,Dim,blue,cool,very-cool
+112,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),0,85,255,85,85,85,159,255,170,Mid,blue,cool,cool
+113,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),0,85,255,85,170,127,191,255,170,Mid,cyan,cool,cool
+114,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=255 (Full),0,85,255,85,255,170,223,255,170,Mid,cyan,cool,cool
+123,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=0 (Off),0,170,0,0,0,0,170,0,85,Dim,green,cool,cool
+124,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=85 (Dim),0,170,0,0,85,42,201,0,170,Mid,yellow-green,warm,very-warm
+125,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=170 (Mid),0,170,0,0,170,85,233,0,170,Mid,yellow-green,warm,very-warm
+126,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=255 (Full),0,170,0,0,255,127,255,0,170,Mid,yellow-green,warm,very-warm
+139,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=0 (Off),0,170,85,0,0,0,170,85,85,Dim,green,cool,very-cool
+140,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),0,170,85,0,85,42,201,85,170,Mid,green,cool,cool
+141,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),0,170,85,0,170,85,233,85,170,Mid,green,cool,cool
+142,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=255 (Full),0,170,85,0,255,127,255,85,170,Mid,green,cool,cool
+155,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=0 (Off),0,170,170,0,0,0,170,170,85,Dim,cyan,cool,very-cool
+156,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),0,170,170,0,85,42,201,170,170,Mid,teal,cool,very-cool
+157,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),0,170,170,0,170,85,233,170,170,Mid,teal,cool,cool
+158,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=255 (Full),0,170,170,0,255,127,255,170,170,Mid,green,cool,neutral
+254,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=0 (Off),85,0,0,85,0,127,42,42,85,Dim,deep red,warm,very-warm
+255,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),85,0,0,85,85,170,74,42,85,Dim,red-orange,warm,very-warm
+256,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),85,0,0,85,170,212,106,42,170,Mid,red-orange,warm,very-warm
+257,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=255 (Full),85,0,0,85,255,255,138,42,170,Mid,red-orange,warm,very-warm
+258,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=0 (Off),85,0,0,170,0,170,85,85,85,Dim,red,warm,warm
+259,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),85,0,0,170,85,212,116,85,170,Mid,red,warm,warm
+260,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),85,0,0,170,170,255,148,85,170,Mid,red-orange,warm,warm
+261,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=255 (Full),85,0,0,170,255,255,180,85,170,Mid,orange,warm,warm
+269,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),85,0,85,85,0,127,42,127,85,Dim,deep magenta,cool,neutral
+270,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),85,0,85,85,85,170,74,127,85,Dim,magenta,cool,neutral
+271,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),85,0,85,85,170,212,106,127,170,Mid,red,warm,warm
+272,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),85,0,85,85,255,255,138,127,170,Mid,red,warm,warm
+273,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),85,0,85,170,0,170,85,170,85,Dim,magenta,cool,neutral
+274,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),85,0,85,170,85,212,116,170,170,Mid,magenta,cool,neutral
+275,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),85,0,85,170,170,255,148,170,170,Mid,red,warm,warm
+276,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),85,0,85,170,255,255,180,170,170,Mid,red,warm,warm
+281,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=0 (Off),85,0,170,0,0,85,0,170,85,Dim,purple,cool,cool
+282,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),85,0,170,0,85,127,31,170,85,Dim,purple,cool,neutral
+283,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),85,0,170,0,170,170,63,170,85,Dim,magenta,cool,neutral
+284,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=255 (Full),85,0,170,0,255,212,95,170,170,Mid,magenta,cool,neutral
+285,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),85,0,170,85,0,127,42,212,85,Dim,purple,cool,cool
+286,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),85,0,170,85,85,170,74,212,85,Dim,purple,cool,neutral
+287,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),85,0,170,85,170,212,106,212,170,Mid,magenta,cool,neutral
+288,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),85,0,170,85,255,255,138,212,170,Mid,magenta,cool,neutral
+297,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=0 (Off),85,0,255,0,0,85,0,255,85,Dim,purple,cool,cool
+298,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=85 (Dim),85,0,255,0,85,127,31,255,85,Dim,purple,cool,cool
+299,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=170 (Mid),85,0,255,0,170,170,63,255,85,Dim,purple,cool,cool
+300,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=255 (Full),85,0,255,0,255,212,95,255,170,Mid,purple,cool,neutral
+301,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=0 (Off),85,0,255,85,0,127,42,255,85,Dim,purple,cool,cool
+302,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),85,0,255,85,85,170,74,255,85,Dim,purple,cool,cool
+303,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),85,0,255,85,170,212,106,255,170,Mid,purple,cool,neutral
+304,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=255 (Full),85,0,255,85,255,255,138,255,170,Mid,magenta,cool,neutral
+313,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=0 (Off),85,85,0,0,0,85,85,0,85,Dim,deep yellow,warm,very-warm
+314,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=85 (Dim),85,85,0,0,85,127,116,0,85,Dim,deep orange,warm,very-warm
+315,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=170 (Mid),85,85,0,0,170,170,148,0,170,Mid,orange,warm,very-warm
+316,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=255 (Full),85,85,0,0,255,212,180,0,170,Mid,orange,warm,very-warm
+317,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=0 (Off),85,85,0,85,0,127,127,42,85,Dim,deep yellow,warm,very-warm
+318,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),85,85,0,85,85,170,159,42,170,Mid,orange,warm,very-warm
+319,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),85,85,0,85,170,212,191,42,170,Mid,orange,warm,very-warm
+320,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=255 (Full),85,85,0,85,255,255,223,42,170,Mid,orange,warm,very-warm
+329,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=0 (Off),85,85,85,0,0,85,85,85,85,Dim,gray,neutral,neutral
+330,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),85,85,85,0,85,127,116,85,85,Dim,deep red,warm,neutral
+331,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),85,85,85,0,170,170,148,85,170,Mid,orange,warm,warm
+332,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=255 (Full),85,85,85,0,255,212,180,85,170,Mid,orange,warm,warm
+333,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),85,85,85,85,0,127,127,127,85,Dim,gray,neutral,neutral
+334,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),85,85,85,85,85,170,159,127,170,Mid,magenta,cool,neutral
+335,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),85,85,85,85,170,212,191,127,170,Mid,orange,warm,warm
+336,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),85,85,85,85,255,255,223,127,255,Full,orange,warm,warm
+345,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=0 (Off),85,85,170,0,0,85,85,170,85,Dim,blue,cool,cool
+346,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),85,85,170,0,85,127,116,170,85,Dim,blue,cool,neutral
+347,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),85,85,170,0,170,170,148,170,170,Mid,white,neutral,neutral
+348,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=255 (Full),85,85,170,0,255,212,180,170,170,Mid,magenta,cool,neutral
+361,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=0 (Off),85,85,255,0,0,85,85,255,85,Dim,blue,cool,cool
+362,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=85 (Dim),85,85,255,0,85,127,116,255,170,Mid,blue,cool,cool
+363,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=170 (Mid),85,85,255,0,170,170,148,255,170,Mid,blue,cool,cool
+364,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=255 (Full),85,85,255,0,255,212,180,255,170,Mid,pastel cyan,cool,neutral
+377,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=0 (Off),85,170,0,0,0,85,170,0,85,Dim,yellow-green,warm,very-warm
+378,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=85 (Dim),85,170,0,0,85,127,201,0,170,Mid,yellow-green,warm,very-warm
+379,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=170 (Mid),85,170,0,0,170,170,233,0,170,Mid,yellow-green,warm,very-warm
+380,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=255 (Full),85,170,0,0,255,212,255,0,255,Full,yellow-green,warm,very-warm
+505,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=0 (Off),170,0,0,0,0,170,0,0,85,Dim,red,warm,very-warm
+506,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=85 (Dim),170,0,0,0,85,212,31,0,85,Dim,red-orange,warm,very-warm
+507,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=170 (Mid),170,0,0,0,170,255,63,0,85,Dim,red-orange,warm,very-warm
+508,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=255 (Full),170,0,0,0,255,255,95,0,170,Mid,red-orange,warm,very-warm
+509,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=0 (Off),170,0,0,85,0,212,42,42,85,Dim,red,warm,very-warm
+510,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),170,0,0,85,85,255,74,42,85,Dim,red-orange,warm,very-warm
+511,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),170,0,0,85,170,255,106,42,170,Mid,red-orange,warm,very-warm
+512,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=255 (Full),170,0,0,85,255,255,138,42,170,Mid,red-orange,warm,very-warm
+521,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=0 (Off),170,0,85,0,0,170,0,85,85,Dim,red,warm,warm
+522,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),170,0,85,0,85,212,31,85,85,Dim,red,warm,warm
+523,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),170,0,85,0,170,255,63,85,85,Dim,red,warm,warm
+524,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=255 (Full),170,0,85,0,255,255,95,85,170,Mid,red,warm,warm
+525,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),170,0,85,85,0,212,42,127,85,Dim,red,warm,warm
+526,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),170,0,85,85,85,255,74,127,170,Mid,red,warm,warm
+527,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),170,0,85,85,170,255,106,127,170,Mid,red,warm,warm
+528,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),170,0,85,85,255,255,138,127,170,Mid,red,warm,warm
+537,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=0 (Off),170,0,170,0,0,170,0,170,85,Dim,magenta,cool,neutral
+538,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),170,0,170,0,85,212,31,170,85,Dim,magenta,cool,neutral
+539,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),170,0,170,0,170,255,63,170,170,Mid,red,warm,warm
+540,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=255 (Full),170,0,170,0,255,255,95,170,170,Mid,red,warm,warm
+541,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),170,0,170,85,0,212,42,212,85,Dim,magenta,cool,neutral
+542,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),170,0,170,85,85,255,74,212,170,Mid,magenta,cool,neutral
+543,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),170,0,170,85,170,255,106,212,170,Mid,magenta,cool,neutral
+544,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),170,0,170,85,255,255,138,212,170,Mid,magenta,cool,neutral
+553,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=0 (Off),170,0,255,0,0,170,0,255,85,Dim,purple,cool,cool
+554,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=85 (Dim),170,0,255,0,85,212,31,255,85,Dim,purple,cool,neutral
+555,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=170 (Mid),170,0,255,0,170,255,63,255,170,Mid,magenta,cool,neutral
+556,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=255 (Full),170,0,255,0,255,255,95,255,170,Mid,magenta,cool,neutral
+557,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=0 (Off),170,0,255,85,0,212,42,255,85,Dim,purple,cool,neutral
+558,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),170,0,255,85,85,255,74,255,170,Mid,magenta,cool,neutral
+559,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),170,0,255,85,170,255,106,255,170,Mid,magenta,cool,neutral
+560,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=255 (Full),170,0,255,85,255,255,138,255,170,Mid,magenta,cool,neutral
+569,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=0 (Off),170,85,0,0,0,170,85,0,85,Dim,red-orange,warm,very-warm
+570,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=85 (Dim),170,85,0,0,85,212,116,0,170,Mid,red-orange,warm,very-warm
+571,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=170 (Mid),170,85,0,0,170,255,148,0,170,Mid,red-orange,warm,very-warm
+572,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=255 (Full),170,85,0,0,255,255,180,0,170,Mid,orange,warm,very-warm
+585,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=0 (Off),170,85,85,0,0,170,85,85,85,Dim,red,warm,warm
+586,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),170,85,85,0,85,212,116,85,170,Mid,red,warm,warm
+587,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),170,85,85,0,170,255,148,85,170,Mid,red-orange,warm,warm
+588,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=255 (Full),170,85,85,0,255,255,180,85,170,Mid,orange,warm,warm
+601,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=0 (Off),170,85,170,0,0,170,85,170,85,Dim,magenta,cool,neutral
+602,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),170,85,170,0,85,212,116,170,170,Mid,magenta,cool,neutral
+603,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),170,85,170,0,170,255,148,170,170,Mid,red,warm,warm
+604,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=255 (Full),170,85,170,0,255,255,180,170,170,Mid,red,warm,warm
+761,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=0 (Off),255,0,0,0,0,255,0,0,85,Dim,red,warm,very-warm
+762,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=85 (Dim),255,0,0,0,85,255,31,0,85,Dim,red-orange,warm,very-warm
+763,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=170 (Mid),255,0,0,0,170,255,63,0,85,Dim,red-orange,warm,very-warm
+764,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=0 (Off) + A=255 (Full),255,0,0,0,255,255,95,0,170,Mid,red-orange,warm,very-warm
+765,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=0 (Off),255,0,0,85,0,255,42,42,85,Dim,red,warm,very-warm
+766,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),255,0,0,85,85,255,74,42,85,Dim,red-orange,warm,very-warm
+767,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),255,0,0,85,170,255,106,42,170,Mid,red-orange,warm,very-warm
+768,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=85 (Dim) + A=255 (Full),255,0,0,85,255,255,138,42,170,Mid,red-orange,warm,very-warm
+777,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=0 (Off),255,0,85,0,0,255,0,85,85,Dim,red,warm,warm
+778,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),255,0,85,0,85,255,31,85,85,Dim,red,warm,warm
+779,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),255,0,85,0,170,255,63,85,85,Dim,red,warm,warm
+780,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=0 (Off) + A=255 (Full),255,0,85,0,255,255,95,85,170,Mid,red,warm,warm
+781,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),255,0,85,85,0,255,42,127,85,Dim,red,warm,warm
+782,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),255,0,85,85,85,255,74,127,170,Mid,red,warm,warm
+783,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),255,0,85,85,170,255,106,127,170,Mid,red,warm,warm
+784,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),255,0,85,85,255,255,138,127,170,Mid,red,warm,warm
+793,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=0 (Off),255,0,170,0,0,255,0,170,85,Dim,red,warm,warm
+794,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),255,0,170,0,85,255,31,170,85,Dim,red,warm,warm
+795,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),255,0,170,0,170,255,63,170,170,Mid,red,warm,warm
+796,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=0 (Off) + A=255 (Full),255,0,170,0,255,255,95,170,170,Mid,red,warm,warm
+797,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),255,0,170,85,0,255,42,212,85,Dim,magenta,cool,neutral
+798,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),255,0,170,85,85,255,74,212,170,Mid,magenta,cool,neutral
+799,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),255,0,170,85,170,255,106,212,170,Mid,magenta,cool,neutral
+800,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),255,0,170,85,255,255,138,212,170,Mid,magenta,cool,neutral
+809,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=0 (Off),255,0,255,0,0,255,0,255,85,Dim,magenta,cool,neutral
+810,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=85 (Dim),255,0,255,0,85,255,31,255,85,Dim,magenta,cool,neutral
+811,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=170 (Mid),255,0,255,0,170,255,63,255,170,Mid,magenta,cool,neutral
+812,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=0 (Off) + A=255 (Full),255,0,255,0,255,255,95,255,170,Mid,magenta,cool,neutral
+825,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=0 (Off),255,85,0,0,0,255,85,0,85,Dim,red-orange,warm,very-warm
+826,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=85 (Dim),255,85,0,0,85,255,116,0,170,Mid,red-orange,warm,very-warm
+827,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=170 (Mid),255,85,0,0,170,255,148,0,170,Mid,red-orange,warm,very-warm
+828,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=0 (Off) + A=255 (Full),255,85,0,0,255,255,180,0,170,Mid,orange,warm,very-warm
+25,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=0 (Off),0,0,85,255,0,127,127,212,170,Mid,blue,cool,cool
+26,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),0,0,85,255,85,170,159,212,170,Mid,cyan,cool,neutral
+27,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),0,0,85,255,170,212,191,212,170,Mid,white,neutral,neutral
+28,R=0 (Off) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=255 (Full),0,0,85,255,255,255,223,212,255,Full,pastel magenta,cool,neutral
+40,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=0 (Off),0,0,170,255,0,127,127,255,170,Mid,blue,cool,cool
+41,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),0,0,170,255,85,170,159,255,170,Mid,blue,cool,cool
+42,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),0,0,170,255,170,212,191,255,170,Mid,pastel cyan,cool,neutral
+43,R=0 (Off) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=255 (Full),0,0,170,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+55,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=0 (Off),0,0,255,255,0,127,127,255,170,Mid,blue,cool,cool
+56,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=85 (Dim),0,0,255,255,85,170,159,255,170,Mid,blue,cool,cool
+57,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=170 (Mid),0,0,255,255,170,212,191,255,170,Mid,pastel cyan,cool,neutral
+58,R=0 (Off) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=255 (Full),0,0,255,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+67,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=0 (Off),0,85,0,170,0,85,170,85,170,Mid,green,cool,cool
+68,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),0,85,0,170,85,127,201,85,170,Mid,green,cool,cool
+69,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),0,85,0,170,170,170,233,85,170,Mid,yellow-green,warm,warm
+70,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=255 (Full),0,85,0,170,255,212,255,85,255,Full,yellow-green,warm,warm
+71,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=0 (Off),0,85,0,255,0,127,212,127,170,Mid,green,cool,cool
+72,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=85 (Dim),0,85,0,255,85,170,244,127,170,Mid,green,cool,neutral
+73,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=170 (Mid),0,85,0,255,170,212,255,127,255,Full,yellow-green,warm,warm
+74,R=0 (Off) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=255 (Full),0,85,0,255,255,255,255,127,255,Full,yellow,warm,warm
+83,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),0,85,85,170,0,85,170,170,170,Mid,cyan,cool,cool
+84,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),0,85,85,170,85,127,201,170,170,Mid,teal,cool,neutral
+85,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),0,85,85,170,170,170,233,170,170,Mid,teal,cool,neutral
+86,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),0,85,85,170,255,212,255,170,255,Full,green,cool,neutral
+87,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=0 (Off),0,85,85,255,0,127,212,212,170,Mid,cyan,cool,cool
+88,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),0,85,85,255,85,170,244,212,255,Full,teal,cool,neutral
+89,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),0,85,85,255,170,212,255,212,255,Full,pastel teal,cool,neutral
+90,R=0 (Off) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=255 (Full),0,85,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+99,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),0,85,170,170,0,85,170,255,170,Mid,blue,cool,cool
+100,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),0,85,170,170,85,127,201,255,170,Mid,cyan,cool,cool
+101,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),0,85,170,170,170,170,233,255,255,Full,cyan,cool,cool
+102,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),0,85,170,170,255,212,255,255,255,Full,pastel cyan,cool,neutral
+103,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=0 (Off),0,85,170,255,0,127,212,255,170,Mid,cyan,cool,cool
+104,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),0,85,170,255,85,170,244,255,255,Full,cyan,cool,cool
+105,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),0,85,170,255,170,212,255,255,255,Full,pastel cyan,cool,neutral
+106,R=0 (Off) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=255 (Full),0,85,170,255,255,255,255,255,255,Full,white,neutral,neutral
+115,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=0 (Off),0,85,255,170,0,85,170,255,170,Mid,blue,cool,cool
+116,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),0,85,255,170,85,127,201,255,170,Mid,cyan,cool,cool
+117,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),0,85,255,170,170,170,233,255,255,Full,cyan,cool,cool
+118,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=255 (Full),0,85,255,170,255,212,255,255,255,Full,pastel cyan,cool,neutral
+119,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=0 (Off),0,85,255,255,0,127,212,255,170,Mid,cyan,cool,cool
+120,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=85 (Dim),0,85,255,255,85,170,244,255,255,Full,cyan,cool,cool
+121,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=170 (Mid),0,85,255,255,170,212,255,255,255,Full,pastel cyan,cool,neutral
+122,R=0 (Off) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=255 (Full),0,85,255,255,255,255,255,255,255,Full,white,neutral,neutral
+127,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=0 (Off),0,170,0,85,0,42,212,42,170,Mid,green,cool,cool
+128,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),0,170,0,85,85,85,244,42,170,Mid,yellow-green,warm,warm
+129,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),0,170,0,85,170,127,255,42,170,Mid,yellow-green,warm,very-warm
+130,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=255 (Full),0,170,0,85,255,170,255,42,170,Mid,yellow-green,warm,very-warm
+131,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=0 (Off),0,170,0,170,0,85,255,85,170,Mid,green,cool,cool
+132,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),0,170,0,170,85,127,255,85,170,Mid,green,cool,cool
+133,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),0,170,0,170,170,170,255,85,170,Mid,yellow-green,warm,warm
+134,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=255 (Full),0,170,0,170,255,212,255,85,255,Full,yellow-green,warm,warm
+135,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=0 (Off),0,170,0,255,0,127,255,127,170,Mid,green,cool,cool
+136,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=85 (Dim),0,170,0,255,85,170,255,127,255,Full,green,cool,neutral
+137,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=170 (Mid),0,170,0,255,170,212,255,127,255,Full,yellow-green,warm,warm
+138,R=0 (Off) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=255 (Full),0,170,0,255,255,255,255,127,255,Full,yellow,warm,warm
+143,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),0,170,85,85,0,42,212,127,170,Mid,green,cool,very-cool
+144,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),0,170,85,85,85,85,244,127,170,Mid,green,cool,cool
+145,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),0,170,85,85,170,127,255,127,170,Mid,green,cool,cool
+146,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),0,170,85,85,255,170,255,127,255,Full,green,cool,neutral
+147,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),0,170,85,170,0,85,255,170,170,Mid,green,cool,cool
+148,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),0,170,85,170,85,127,255,170,170,Mid,green,cool,neutral
+149,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),0,170,85,170,170,170,255,170,255,Full,green,cool,neutral
+150,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),0,170,85,170,255,212,255,170,255,Full,green,cool,neutral
+151,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=0 (Off),0,170,85,255,0,127,255,212,170,Mid,teal,cool,cool
+152,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),0,170,85,255,85,170,255,212,255,Full,teal,cool,neutral
+153,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),0,170,85,255,170,212,255,212,255,Full,pastel teal,cool,neutral
+154,R=0 (Off) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=255 (Full),0,170,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+159,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),0,170,170,85,0,42,212,212,170,Mid,cyan,cool,very-cool
+160,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),0,170,170,85,85,85,244,212,170,Mid,teal,cool,cool
+161,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),0,170,170,85,170,127,255,212,170,Mid,teal,cool,cool
+162,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),0,170,170,85,255,170,255,212,255,Full,teal,cool,neutral
+163,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),0,170,170,170,0,85,255,255,170,Mid,cyan,cool,cool
+164,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),0,170,170,170,85,127,255,255,255,Full,cyan,cool,cool
+165,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),0,170,170,170,170,170,255,255,255,Full,cyan,cool,cool
+166,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),0,170,170,170,255,212,255,255,255,Full,pastel cyan,cool,neutral
+171,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=0 (Off),0,170,255,0,0,0,170,255,170,Mid,blue,cool,very-cool
+172,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=85 (Dim),0,170,255,0,85,42,201,255,170,Mid,cyan,cool,very-cool
+173,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=170 (Mid),0,170,255,0,170,85,233,255,170,Mid,cyan,cool,cool
+174,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=255 (Full),0,170,255,0,255,127,255,255,255,Full,cyan,cool,cool
+175,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=0 (Off),0,170,255,85,0,42,212,255,170,Mid,cyan,cool,very-cool
+176,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),0,170,255,85,85,85,244,255,170,Mid,cyan,cool,cool
+177,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),0,170,255,85,170,127,255,255,255,Full,cyan,cool,cool
+178,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=255 (Full),0,170,255,85,255,170,255,255,255,Full,cyan,cool,cool
+179,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=0 (Off),0,170,255,170,0,85,255,255,170,Mid,cyan,cool,cool
+180,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),0,170,255,170,85,127,255,255,255,Full,cyan,cool,cool
+181,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),0,170,255,170,170,170,255,255,255,Full,cyan,cool,cool
+182,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=255 (Full),0,170,255,170,255,212,255,255,255,Full,pastel cyan,cool,neutral
+187,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=0 (Off),0,255,0,0,0,0,255,0,170,Mid,green,cool,cool
+188,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=85 (Dim),0,255,0,0,85,42,255,0,170,Mid,yellow-green,warm,very-warm
+189,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=170 (Mid),0,255,0,0,170,85,255,0,170,Mid,yellow-green,warm,very-warm
+190,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=255 (Full),0,255,0,0,255,127,255,0,170,Mid,yellow-green,warm,very-warm
+191,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=0 (Off),0,255,0,85,0,42,255,42,170,Mid,green,cool,cool
+192,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),0,255,0,85,85,85,255,42,170,Mid,yellow-green,warm,warm
+193,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),0,255,0,85,170,127,255,42,170,Mid,yellow-green,warm,very-warm
+194,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=255 (Full),0,255,0,85,255,170,255,42,170,Mid,yellow-green,warm,very-warm
+195,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=0 (Off),0,255,0,170,0,85,255,85,170,Mid,green,cool,cool
+196,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),0,255,0,170,85,127,255,85,170,Mid,green,cool,cool
+197,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),0,255,0,170,170,170,255,85,170,Mid,yellow-green,warm,warm
+198,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=255 (Full),0,255,0,170,255,212,255,85,255,Full,yellow-green,warm,warm
+199,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=0 (Off),0,255,0,255,0,127,255,127,170,Mid,green,cool,cool
+200,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=85 (Dim),0,255,0,255,85,170,255,127,255,Full,green,cool,neutral
+201,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=170 (Mid),0,255,0,255,170,212,255,127,255,Full,yellow-green,warm,warm
+202,R=0 (Off) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=255 (Full),0,255,0,255,255,255,255,127,255,Full,yellow,warm,warm
+203,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=0 (Off),0,255,85,0,0,0,255,85,170,Mid,green,cool,very-cool
+204,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),0,255,85,0,85,42,255,85,170,Mid,green,cool,cool
+205,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),0,255,85,0,170,85,255,85,170,Mid,green,cool,cool
+206,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=255 (Full),0,255,85,0,255,127,255,85,170,Mid,green,cool,cool
+207,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),0,255,85,85,0,42,255,127,170,Mid,green,cool,very-cool
+208,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),0,255,85,85,85,85,255,127,170,Mid,green,cool,cool
+209,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),0,255,85,85,170,127,255,127,170,Mid,green,cool,cool
+210,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),0,255,85,85,255,170,255,127,255,Full,green,cool,neutral
+211,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),0,255,85,170,0,85,255,170,170,Mid,green,cool,cool
+212,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),0,255,85,170,85,127,255,170,170,Mid,green,cool,neutral
+213,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),0,255,85,170,170,170,255,170,255,Full,green,cool,neutral
+214,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),0,255,85,170,255,212,255,170,255,Full,green,cool,neutral
+215,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=0 (Off),0,255,85,255,0,127,255,212,170,Mid,teal,cool,cool
+216,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),0,255,85,255,85,170,255,212,255,Full,teal,cool,neutral
+217,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),0,255,85,255,170,212,255,212,255,Full,pastel teal,cool,neutral
+218,R=0 (Off) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=255 (Full),0,255,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+219,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=0 (Off),0,255,170,0,0,0,255,170,170,Mid,green,cool,very-cool
+220,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),0,255,170,0,85,42,255,170,170,Mid,green,cool,very-cool
+221,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),0,255,170,0,170,85,255,170,170,Mid,green,cool,cool
+222,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=255 (Full),0,255,170,0,255,127,255,170,170,Mid,green,cool,neutral
+223,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),0,255,170,85,0,42,255,212,170,Mid,teal,cool,very-cool
+224,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),0,255,170,85,85,85,255,212,170,Mid,teal,cool,cool
+225,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),0,255,170,85,170,127,255,212,170,Mid,teal,cool,cool
+226,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),0,255,170,85,255,170,255,212,255,Full,teal,cool,neutral
+227,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),0,255,170,170,0,85,255,255,170,Mid,cyan,cool,cool
+228,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),0,255,170,170,85,127,255,255,255,Full,cyan,cool,cool
+229,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),0,255,170,170,170,170,255,255,255,Full,cyan,cool,cool
+230,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),0,255,170,170,255,212,255,255,255,Full,pastel cyan,cool,neutral
+235,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=0 (Off),0,255,255,0,0,0,255,255,170,Mid,cyan,cool,very-cool
+236,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=85 (Dim),0,255,255,0,85,42,255,255,170,Mid,cyan,cool,very-cool
+237,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=170 (Mid),0,255,255,0,170,85,255,255,170,Mid,cyan,cool,cool
+238,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=255 (Full),0,255,255,0,255,127,255,255,255,Full,cyan,cool,cool
+239,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=0 (Off),0,255,255,85,0,42,255,255,170,Mid,cyan,cool,very-cool
+240,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),0,255,255,85,85,85,255,255,170,Mid,cyan,cool,cool
+241,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),0,255,255,85,170,127,255,255,255,Full,cyan,cool,cool
+242,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=255 (Full),0,255,255,85,255,170,255,255,255,Full,cyan,cool,cool
+243,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=0 (Off),0,255,255,170,0,85,255,255,170,Mid,cyan,cool,cool
+244,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),0,255,255,170,85,127,255,255,255,Full,cyan,cool,cool
+245,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),0,255,255,170,170,170,255,255,255,Full,cyan,cool,cool
+246,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=255 (Full),0,255,255,170,255,212,255,255,255,Full,pastel cyan,cool,neutral
+262,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=0 (Off),85,0,0,255,0,212,127,127,170,Mid,red,warm,warm
+263,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=85 (Dim),85,0,0,255,85,255,159,127,170,Mid,red,warm,warm
+264,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=170 (Mid),85,0,0,255,170,255,191,127,170,Mid,orange,warm,warm
+265,R=85 (Dim) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=255 (Full),85,0,0,255,255,255,223,127,255,Full,orange,warm,warm
+277,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=0 (Off),85,0,85,255,0,212,127,212,170,Mid,magenta,cool,neutral
+278,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),85,0,85,255,85,255,159,212,170,Mid,magenta,cool,neutral
+279,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),85,0,85,255,170,255,191,212,255,Full,pastel magenta,cool,neutral
+280,R=85 (Dim) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=255 (Full),85,0,85,255,255,255,223,212,255,Full,pastel magenta,cool,neutral
+289,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),85,0,170,170,0,170,85,255,170,Mid,purple,cool,cool
+290,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),85,0,170,170,85,212,116,255,170,Mid,purple,cool,neutral
+291,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),85,0,170,170,170,255,148,255,170,Mid,magenta,cool,neutral
+292,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),85,0,170,170,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+293,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=0 (Off),85,0,170,255,0,212,127,255,170,Mid,purple,cool,neutral
+294,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),85,0,170,255,85,255,159,255,170,Mid,magenta,cool,neutral
+295,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),85,0,170,255,170,255,191,255,255,Full,pastel magenta,cool,neutral
+296,R=85 (Dim) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=255 (Full),85,0,170,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+305,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=0 (Off),85,0,255,170,0,170,85,255,170,Mid,purple,cool,cool
+306,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),85,0,255,170,85,212,116,255,170,Mid,purple,cool,neutral
+307,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),85,0,255,170,170,255,148,255,170,Mid,magenta,cool,neutral
+308,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=255 (Full),85,0,255,170,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+309,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=0 (Off),85,0,255,255,0,212,127,255,170,Mid,purple,cool,neutral
+310,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=85 (Dim),85,0,255,255,85,255,159,255,170,Mid,magenta,cool,neutral
+311,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=170 (Mid),85,0,255,255,170,255,191,255,255,Full,pastel magenta,cool,neutral
+312,R=85 (Dim) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=255 (Full),85,0,255,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+321,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=0 (Off),85,85,0,170,0,170,170,85,170,Mid,yellow,warm,warm
+322,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),85,85,0,170,85,212,201,85,170,Mid,orange,warm,warm
+323,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),85,85,0,170,170,255,233,85,255,Full,orange,warm,warm
+324,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=255 (Full),85,85,0,170,255,255,255,85,255,Full,yellow,warm,warm
+325,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=0 (Off),85,85,0,255,0,212,212,127,170,Mid,yellow,warm,warm
+326,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=85 (Dim),85,85,0,255,85,255,244,127,255,Full,orange,warm,warm
+327,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=170 (Mid),85,85,0,255,170,255,255,127,255,Full,yellow,warm,warm
+328,R=85 (Dim) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=255 (Full),85,85,0,255,255,255,255,127,255,Full,yellow,warm,warm
+337,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),85,85,85,170,0,170,170,170,170,Mid,white,neutral,neutral
+338,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),85,85,85,170,85,212,201,170,170,Mid,magenta,cool,neutral
+339,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),85,85,85,170,170,255,233,170,255,Full,red,warm,warm
+340,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),85,85,85,170,255,255,255,170,255,Full,yellow,warm,warm
+349,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),85,85,170,85,0,127,127,212,170,Mid,blue,cool,cool
+350,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),85,85,170,85,85,170,159,212,170,Mid,cyan,cool,neutral
+351,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),85,85,170,85,170,212,191,212,170,Mid,white,neutral,neutral
+352,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),85,85,170,85,255,255,223,212,255,Full,pastel magenta,cool,neutral
+353,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),85,85,170,170,0,170,170,255,170,Mid,blue,cool,cool
+354,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),85,85,170,170,85,212,201,255,170,Mid,pastel cyan,cool,neutral
+355,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),85,85,170,170,170,255,233,255,255,Full,white,neutral,neutral
+356,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),85,85,170,170,255,255,255,255,255,Full,white,neutral,neutral
+365,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=0 (Off),85,85,255,85,0,127,127,255,170,Mid,blue,cool,cool
+366,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),85,85,255,85,85,170,159,255,170,Mid,blue,cool,cool
+367,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),85,85,255,85,170,212,191,255,170,Mid,pastel cyan,cool,neutral
+368,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=255 (Full),85,85,255,85,255,255,223,255,255,Full,pastel magenta,cool,neutral
+369,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=0 (Off),85,85,255,170,0,170,170,255,170,Mid,blue,cool,cool
+370,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),85,85,255,170,85,212,201,255,170,Mid,pastel cyan,cool,neutral
+371,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),85,85,255,170,170,255,233,255,255,Full,white,neutral,neutral
+372,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=255 (Full),85,85,255,170,255,255,255,255,255,Full,white,neutral,neutral
+381,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=0 (Off),85,170,0,85,0,127,212,42,170,Mid,yellow-green,warm,very-warm
+382,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),85,170,0,85,85,170,244,42,170,Mid,yellow-green,warm,very-warm
+383,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),85,170,0,85,170,212,255,42,255,Full,yellow-green,warm,very-warm
+384,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=255 (Full),85,170,0,85,255,255,255,42,255,Full,yellow,warm,very-warm
+385,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=0 (Off),85,170,0,170,0,170,255,85,170,Mid,yellow-green,warm,warm
+386,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),85,170,0,170,85,212,255,85,255,Full,yellow-green,warm,warm
+387,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),85,170,0,170,170,255,255,85,255,Full,yellow,warm,warm
+388,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=255 (Full),85,170,0,170,255,255,255,85,255,Full,yellow,warm,warm
+393,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=0 (Off),85,170,85,0,0,85,170,85,170,Mid,green,cool,cool
+394,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),85,170,85,0,85,127,201,85,170,Mid,green,cool,cool
+395,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),85,170,85,0,170,170,233,85,170,Mid,yellow-green,warm,warm
+396,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=255 (Full),85,170,85,0,255,212,255,85,255,Full,yellow-green,warm,warm
+397,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),85,170,85,85,0,127,212,127,170,Mid,green,cool,cool
+398,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),85,170,85,85,85,170,244,127,170,Mid,green,cool,neutral
+399,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),85,170,85,85,170,212,255,127,255,Full,yellow-green,warm,warm
+400,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),85,170,85,85,255,255,255,127,255,Full,yellow,warm,warm
+409,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=0 (Off),85,170,170,0,0,85,170,170,170,Mid,cyan,cool,cool
+410,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),85,170,170,0,85,127,201,170,170,Mid,teal,cool,neutral
+411,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),85,170,170,0,170,170,233,170,170,Mid,teal,cool,neutral
+412,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=255 (Full),85,170,170,0,255,212,255,170,255,Full,green,cool,neutral
+413,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),85,170,170,85,0,127,212,212,170,Mid,cyan,cool,cool
+414,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),85,170,170,85,85,170,244,212,255,Full,teal,cool,neutral
+415,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),85,170,170,85,170,212,255,212,255,Full,pastel teal,cool,neutral
+416,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),85,170,170,85,255,255,255,212,255,Full,pastel yellow,warm,neutral
+425,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=0 (Off),85,170,255,0,0,85,170,255,170,Mid,blue,cool,cool
+426,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=85 (Dim),85,170,255,0,85,127,201,255,170,Mid,cyan,cool,cool
+427,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=170 (Mid),85,170,255,0,170,170,233,255,255,Full,cyan,cool,cool
+428,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=255 (Full),85,170,255,0,255,212,255,255,255,Full,pastel cyan,cool,neutral
+429,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=0 (Off),85,170,255,85,0,127,212,255,170,Mid,cyan,cool,cool
+430,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),85,170,255,85,85,170,244,255,255,Full,cyan,cool,cool
+431,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),85,170,255,85,170,212,255,255,255,Full,pastel cyan,cool,neutral
+432,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=255 (Full),85,170,255,85,255,255,255,255,255,Full,white,neutral,neutral
+441,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=0 (Off),85,255,0,0,0,85,255,0,170,Mid,yellow-green,warm,very-warm
+442,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=85 (Dim),85,255,0,0,85,127,255,0,170,Mid,yellow-green,warm,very-warm
+443,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=170 (Mid),85,255,0,0,170,170,255,0,170,Mid,yellow-green,warm,very-warm
+444,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=255 (Full),85,255,0,0,255,212,255,0,255,Full,yellow-green,warm,very-warm
+445,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=0 (Off),85,255,0,85,0,127,255,42,170,Mid,yellow-green,warm,very-warm
+446,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),85,255,0,85,85,170,255,42,170,Mid,yellow-green,warm,very-warm
+447,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),85,255,0,85,170,212,255,42,255,Full,yellow-green,warm,very-warm
+448,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=255 (Full),85,255,0,85,255,255,255,42,255,Full,yellow,warm,very-warm
+449,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=0 (Off),85,255,0,170,0,170,255,85,170,Mid,yellow-green,warm,warm
+450,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),85,255,0,170,85,212,255,85,255,Full,yellow-green,warm,warm
+451,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),85,255,0,170,170,255,255,85,255,Full,yellow,warm,warm
+452,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=255 (Full),85,255,0,170,255,255,255,85,255,Full,yellow,warm,warm
+457,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=0 (Off),85,255,85,0,0,85,255,85,170,Mid,green,cool,cool
+458,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),85,255,85,0,85,127,255,85,170,Mid,green,cool,cool
+459,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),85,255,85,0,170,170,255,85,170,Mid,yellow-green,warm,warm
+460,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=255 (Full),85,255,85,0,255,212,255,85,255,Full,yellow-green,warm,warm
+461,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),85,255,85,85,0,127,255,127,170,Mid,green,cool,cool
+462,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),85,255,85,85,85,170,255,127,255,Full,green,cool,neutral
+463,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),85,255,85,85,170,212,255,127,255,Full,yellow-green,warm,warm
+464,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),85,255,85,85,255,255,255,127,255,Full,yellow,warm,warm
+473,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=0 (Off),85,255,170,0,0,85,255,170,170,Mid,green,cool,cool
+474,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),85,255,170,0,85,127,255,170,170,Mid,green,cool,neutral
+475,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),85,255,170,0,170,170,255,170,255,Full,green,cool,neutral
+476,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=255 (Full),85,255,170,0,255,212,255,170,255,Full,green,cool,neutral
+477,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),85,255,170,85,0,127,255,212,170,Mid,teal,cool,cool
+478,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),85,255,170,85,85,170,255,212,255,Full,teal,cool,neutral
+479,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),85,255,170,85,170,212,255,212,255,Full,pastel teal,cool,neutral
+480,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),85,255,170,85,255,255,255,212,255,Full,pastel yellow,warm,neutral
+489,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=0 (Off),85,255,255,0,0,85,255,255,170,Mid,cyan,cool,cool
+490,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=85 (Dim),85,255,255,0,85,127,255,255,255,Full,cyan,cool,cool
+491,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=170 (Mid),85,255,255,0,170,170,255,255,255,Full,cyan,cool,cool
+492,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=255 (Full),85,255,255,0,255,212,255,255,255,Full,pastel cyan,cool,neutral
+513,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=0 (Off),170,0,0,170,0,255,85,85,170,Mid,red,warm,warm
+514,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),170,0,0,170,85,255,116,85,170,Mid,red,warm,warm
+515,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),170,0,0,170,170,255,148,85,170,Mid,red-orange,warm,warm
+516,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=255 (Full),170,0,0,170,255,255,180,85,170,Mid,orange,warm,warm
+517,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=0 (Off),170,0,0,255,0,255,127,127,170,Mid,red,warm,warm
+518,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=85 (Dim),170,0,0,255,85,255,159,127,170,Mid,red,warm,warm
+519,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=170 (Mid),170,0,0,255,170,255,191,127,170,Mid,orange,warm,warm
+520,R=170 (Mid) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=255 (Full),170,0,0,255,255,255,223,127,255,Full,orange,warm,warm
+529,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),170,0,85,170,0,255,85,170,170,Mid,red,warm,warm
+530,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),170,0,85,170,85,255,116,170,170,Mid,red,warm,warm
+531,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),170,0,85,170,170,255,148,170,170,Mid,red,warm,warm
+532,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),170,0,85,170,255,255,180,170,170,Mid,red,warm,warm
+533,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=0 (Off),170,0,85,255,0,255,127,212,170,Mid,magenta,cool,neutral
+534,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),170,0,85,255,85,255,159,212,170,Mid,magenta,cool,neutral
+535,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),170,0,85,255,170,255,191,212,255,Full,pastel magenta,cool,neutral
+536,R=170 (Mid) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=255 (Full),170,0,85,255,255,255,223,212,255,Full,pastel magenta,cool,neutral
+545,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),170,0,170,170,0,255,85,255,170,Mid,magenta,cool,neutral
+546,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),170,0,170,170,85,255,116,255,170,Mid,magenta,cool,neutral
+547,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),170,0,170,170,170,255,148,255,170,Mid,magenta,cool,neutral
+548,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),170,0,170,170,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+549,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=0 (Off),170,0,170,255,0,255,127,255,170,Mid,magenta,cool,neutral
+550,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),170,0,170,255,85,255,159,255,170,Mid,magenta,cool,neutral
+551,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),170,0,170,255,170,255,191,255,255,Full,pastel magenta,cool,neutral
+552,R=170 (Mid) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=255 (Full),170,0,170,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+561,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=0 (Off),170,0,255,170,0,255,85,255,170,Mid,magenta,cool,neutral
+562,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),170,0,255,170,85,255,116,255,170,Mid,magenta,cool,neutral
+563,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),170,0,255,170,170,255,148,255,170,Mid,magenta,cool,neutral
+564,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=255 (Full),170,0,255,170,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+565,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=0 (Off),170,0,255,255,0,255,127,255,170,Mid,magenta,cool,neutral
+566,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=85 (Dim),170,0,255,255,85,255,159,255,170,Mid,magenta,cool,neutral
+567,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=170 (Mid),170,0,255,255,170,255,191,255,255,Full,pastel magenta,cool,neutral
+568,R=170 (Mid) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=255 (Full),170,0,255,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+573,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=0 (Off),170,85,0,85,0,212,127,42,170,Mid,red-orange,warm,very-warm
+574,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),170,85,0,85,85,255,159,42,170,Mid,red-orange,warm,very-warm
+575,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),170,85,0,85,170,255,191,42,170,Mid,orange,warm,very-warm
+576,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=255 (Full),170,85,0,85,255,255,223,42,170,Mid,orange,warm,very-warm
+577,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=0 (Off),170,85,0,170,0,255,170,85,170,Mid,red-orange,warm,warm
+578,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),170,85,0,170,85,255,201,85,170,Mid,orange,warm,warm
+579,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),170,85,0,170,170,255,233,85,255,Full,orange,warm,warm
+580,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=255 (Full),170,85,0,170,255,255,255,85,255,Full,yellow,warm,warm
+589,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),170,85,85,85,0,212,127,127,170,Mid,red,warm,warm
+590,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),170,85,85,85,85,255,159,127,170,Mid,red,warm,warm
+591,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),170,85,85,85,170,255,191,127,170,Mid,orange,warm,warm
+592,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),170,85,85,85,255,255,223,127,255,Full,orange,warm,warm
+593,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),170,85,85,170,0,255,170,170,170,Mid,red,warm,warm
+594,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),170,85,85,170,85,255,201,170,255,Full,red,warm,warm
+595,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),170,85,85,170,170,255,233,170,255,Full,red,warm,warm
+596,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),170,85,85,170,255,255,255,170,255,Full,yellow,warm,warm
+605,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),170,85,170,85,0,212,127,212,170,Mid,magenta,cool,neutral
+606,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),170,85,170,85,85,255,159,212,170,Mid,magenta,cool,neutral
+607,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),170,85,170,85,170,255,191,212,255,Full,pastel magenta,cool,neutral
+608,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),170,85,170,85,255,255,223,212,255,Full,pastel magenta,cool,neutral
+609,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),170,85,170,170,0,255,170,255,170,Mid,magenta,cool,neutral
+610,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),170,85,170,170,85,255,201,255,255,Full,pastel magenta,cool,neutral
+611,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),170,85,170,170,170,255,233,255,255,Full,white,neutral,neutral
+612,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),170,85,170,170,255,255,255,255,255,Full,white,neutral,neutral
+617,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=0 (Off),170,85,255,0,0,170,85,255,170,Mid,purple,cool,cool
+618,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=85 (Dim),170,85,255,0,85,212,116,255,170,Mid,purple,cool,neutral
+619,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=170 (Mid),170,85,255,0,170,255,148,255,170,Mid,magenta,cool,neutral
+620,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=255 (Full),170,85,255,0,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+621,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=0 (Off),170,85,255,85,0,212,127,255,170,Mid,purple,cool,neutral
+622,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),170,85,255,85,85,255,159,255,170,Mid,magenta,cool,neutral
+623,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),170,85,255,85,170,255,191,255,255,Full,pastel magenta,cool,neutral
+624,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=255 (Full),170,85,255,85,255,255,223,255,255,Full,pastel magenta,cool,neutral
+625,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=0 (Off),170,85,255,170,0,255,170,255,170,Mid,magenta,cool,neutral
+626,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),170,85,255,170,85,255,201,255,255,Full,pastel magenta,cool,neutral
+627,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),170,85,255,170,170,255,233,255,255,Full,white,neutral,neutral
+628,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=255 (Full),170,85,255,170,255,255,255,255,255,Full,white,neutral,neutral
+633,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=0 (Off),170,170,0,0,0,170,170,0,170,Mid,yellow,warm,very-warm
+634,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=85 (Dim),170,170,0,0,85,212,201,0,170,Mid,orange,warm,very-warm
+635,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=170 (Mid),170,170,0,0,170,255,233,0,255,Full,orange,warm,very-warm
+636,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=255 (Full),170,170,0,0,255,255,255,0,255,Full,yellow,warm,very-warm
+637,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=0 (Off),170,170,0,85,0,212,212,42,170,Mid,yellow,warm,very-warm
+638,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),170,170,0,85,85,255,244,42,255,Full,orange,warm,very-warm
+639,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),170,170,0,85,170,255,255,42,255,Full,yellow,warm,very-warm
+640,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=255 (Full),170,170,0,85,255,255,255,42,255,Full,yellow,warm,very-warm
+649,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=0 (Off),170,170,85,0,0,170,170,85,170,Mid,yellow,warm,warm
+650,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),170,170,85,0,85,212,201,85,170,Mid,orange,warm,warm
+651,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),170,170,85,0,170,255,233,85,255,Full,orange,warm,warm
+652,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=255 (Full),170,170,85,0,255,255,255,85,255,Full,yellow,warm,warm
+653,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),170,170,85,85,0,212,212,127,170,Mid,yellow,warm,warm
+654,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),170,170,85,85,85,255,244,127,255,Full,orange,warm,warm
+655,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),170,170,85,85,170,255,255,127,255,Full,yellow,warm,warm
+656,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),170,170,85,85,255,255,255,127,255,Full,yellow,warm,warm
+665,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=0 (Off),170,170,170,0,0,170,170,170,170,Mid,white,neutral,neutral
+666,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),170,170,170,0,85,212,201,170,170,Mid,magenta,cool,neutral
+667,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),170,170,170,0,170,255,233,170,255,Full,red,warm,warm
+668,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=255 (Full),170,170,170,0,255,255,255,170,255,Full,yellow,warm,warm
+681,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=0 (Off),170,170,255,0,0,170,170,255,170,Mid,blue,cool,cool
+682,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=85 (Dim),170,170,255,0,85,212,201,255,170,Mid,pastel cyan,cool,neutral
+683,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=170 (Mid),170,170,255,0,170,255,233,255,255,Full,white,neutral,neutral
+684,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=255 (Full),170,170,255,0,255,255,255,255,255,Full,white,neutral,neutral
+697,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=0 (Off),170,255,0,0,0,170,255,0,170,Mid,yellow-green,warm,very-warm
+698,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=85 (Dim),170,255,0,0,85,212,255,0,255,Full,yellow-green,warm,very-warm
+699,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=170 (Mid),170,255,0,0,170,255,255,0,255,Full,yellow,warm,very-warm
+700,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=255 (Full),170,255,0,0,255,255,255,0,255,Full,yellow,warm,very-warm
+713,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=0 (Off),170,255,85,0,0,170,255,85,170,Mid,yellow-green,warm,warm
+714,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),170,255,85,0,85,212,255,85,255,Full,yellow-green,warm,warm
+715,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),170,255,85,0,170,255,255,85,255,Full,yellow,warm,warm
+716,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=255 (Full),170,255,85,0,255,255,255,85,255,Full,yellow,warm,warm
+769,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=0 (Off),255,0,0,170,0,255,85,85,170,Mid,red,warm,warm
+770,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),255,0,0,170,85,255,116,85,170,Mid,red,warm,warm
+771,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),255,0,0,170,170,255,148,85,170,Mid,red-orange,warm,warm
+772,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=170 (Mid) + A=255 (Full),255,0,0,170,255,255,180,85,170,Mid,orange,warm,warm
+773,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=0 (Off),255,0,0,255,0,255,127,127,170,Mid,red,warm,warm
+774,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=85 (Dim),255,0,0,255,85,255,159,127,170,Mid,red,warm,warm
+775,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=170 (Mid),255,0,0,255,170,255,191,127,170,Mid,orange,warm,warm
+776,R=255 (Full) + G=0 (Off) + B=0 (Off) + W=255 (Full) + A=255 (Full),255,0,0,255,255,255,223,127,255,Full,orange,warm,warm
+785,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),255,0,85,170,0,255,85,170,170,Mid,red,warm,warm
+786,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),255,0,85,170,85,255,116,170,170,Mid,red,warm,warm
+787,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),255,0,85,170,170,255,148,170,170,Mid,red,warm,warm
+788,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),255,0,85,170,255,255,180,170,170,Mid,red,warm,warm
+789,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=0 (Off),255,0,85,255,0,255,127,212,170,Mid,magenta,cool,neutral
+790,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),255,0,85,255,85,255,159,212,170,Mid,magenta,cool,neutral
+791,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),255,0,85,255,170,255,191,212,255,Full,pastel magenta,cool,neutral
+792,R=255 (Full) + G=0 (Off) + B=85 (Dim) + W=255 (Full) + A=255 (Full),255,0,85,255,255,255,223,212,255,Full,pastel magenta,cool,neutral
+801,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),255,0,170,170,0,255,85,255,170,Mid,magenta,cool,neutral
+802,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),255,0,170,170,85,255,116,255,170,Mid,magenta,cool,neutral
+803,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),255,0,170,170,170,255,148,255,170,Mid,magenta,cool,neutral
+804,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),255,0,170,170,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+805,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=0 (Off),255,0,170,255,0,255,127,255,170,Mid,magenta,cool,neutral
+806,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),255,0,170,255,85,255,159,255,170,Mid,magenta,cool,neutral
+807,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),255,0,170,255,170,255,191,255,255,Full,pastel magenta,cool,neutral
+808,R=255 (Full) + G=0 (Off) + B=170 (Mid) + W=255 (Full) + A=255 (Full),255,0,170,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+813,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=0 (Off),255,0,255,85,0,255,42,255,170,Mid,magenta,cool,neutral
+814,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),255,0,255,85,85,255,74,255,170,Mid,magenta,cool,neutral
+815,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),255,0,255,85,170,255,106,255,170,Mid,magenta,cool,neutral
+816,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=85 (Dim) + A=255 (Full),255,0,255,85,255,255,138,255,170,Mid,magenta,cool,neutral
+817,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=0 (Off),255,0,255,170,0,255,85,255,170,Mid,magenta,cool,neutral
+818,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),255,0,255,170,85,255,116,255,170,Mid,magenta,cool,neutral
+819,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),255,0,255,170,170,255,148,255,170,Mid,magenta,cool,neutral
+820,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=170 (Mid) + A=255 (Full),255,0,255,170,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+821,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=0 (Off),255,0,255,255,0,255,127,255,170,Mid,magenta,cool,neutral
+822,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=85 (Dim),255,0,255,255,85,255,159,255,170,Mid,magenta,cool,neutral
+823,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=170 (Mid),255,0,255,255,170,255,191,255,255,Full,pastel magenta,cool,neutral
+824,R=255 (Full) + G=0 (Off) + B=255 (Full) + W=255 (Full) + A=255 (Full),255,0,255,255,255,255,223,255,255,Full,pastel magenta,cool,neutral
+829,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=0 (Off),255,85,0,85,0,255,127,42,170,Mid,red-orange,warm,very-warm
+830,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),255,85,0,85,85,255,159,42,170,Mid,red-orange,warm,very-warm
+831,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),255,85,0,85,170,255,191,42,170,Mid,orange,warm,very-warm
+832,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=85 (Dim) + A=255 (Full),255,85,0,85,255,255,223,42,170,Mid,orange,warm,very-warm
+833,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=0 (Off),255,85,0,170,0,255,170,85,170,Mid,red-orange,warm,warm
+834,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),255,85,0,170,85,255,201,85,170,Mid,orange,warm,warm
+835,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),255,85,0,170,170,255,233,85,255,Full,orange,warm,warm
+836,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=170 (Mid) + A=255 (Full),255,85,0,170,255,255,255,85,255,Full,yellow,warm,warm
+841,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=0 (Off),255,85,85,0,0,255,85,85,170,Mid,red,warm,warm
+842,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),255,85,85,0,85,255,116,85,170,Mid,red,warm,warm
+843,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),255,85,85,0,170,255,148,85,170,Mid,red-orange,warm,warm
+844,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=0 (Off) + A=255 (Full),255,85,85,0,255,255,180,85,170,Mid,orange,warm,warm
+845,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),255,85,85,85,0,255,127,127,170,Mid,red,warm,warm
+846,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),255,85,85,85,85,255,159,127,170,Mid,red,warm,warm
+847,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),255,85,85,85,170,255,191,127,170,Mid,orange,warm,warm
+848,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),255,85,85,85,255,255,223,127,255,Full,orange,warm,warm
+849,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),255,85,85,170,0,255,170,170,170,Mid,red,warm,warm
+850,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),255,85,85,170,85,255,201,170,255,Full,red,warm,warm
+851,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),255,85,85,170,170,255,233,170,255,Full,red,warm,warm
+852,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),255,85,85,170,255,255,255,170,255,Full,yellow,warm,warm
+857,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=0 (Off),255,85,170,0,0,255,85,170,170,Mid,red,warm,warm
+858,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),255,85,170,0,85,255,116,170,170,Mid,red,warm,warm
+859,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),255,85,170,0,170,255,148,170,170,Mid,red,warm,warm
+860,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=0 (Off) + A=255 (Full),255,85,170,0,255,255,180,170,170,Mid,red,warm,warm
+861,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),255,85,170,85,0,255,127,212,170,Mid,magenta,cool,neutral
+862,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),255,85,170,85,85,255,159,212,170,Mid,magenta,cool,neutral
+863,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),255,85,170,85,170,255,191,212,255,Full,pastel magenta,cool,neutral
+864,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),255,85,170,85,255,255,223,212,255,Full,pastel magenta,cool,neutral
+865,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),255,85,170,170,0,255,170,255,170,Mid,magenta,cool,neutral
+866,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),255,85,170,170,85,255,201,255,255,Full,pastel magenta,cool,neutral
+867,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),255,85,170,170,170,255,233,255,255,Full,white,neutral,neutral
+868,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),255,85,170,170,255,255,255,255,255,Full,white,neutral,neutral
+873,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=0 (Off),255,85,255,0,0,255,85,255,170,Mid,magenta,cool,neutral
+874,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=85 (Dim),255,85,255,0,85,255,116,255,170,Mid,magenta,cool,neutral
+875,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=170 (Mid),255,85,255,0,170,255,148,255,170,Mid,magenta,cool,neutral
+876,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=0 (Off) + A=255 (Full),255,85,255,0,255,255,180,255,170,Mid,pastel magenta,cool,neutral
+877,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=0 (Off),255,85,255,85,0,255,127,255,170,Mid,magenta,cool,neutral
+878,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),255,85,255,85,85,255,159,255,170,Mid,magenta,cool,neutral
+879,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),255,85,255,85,170,255,191,255,255,Full,pastel magenta,cool,neutral
+880,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=85 (Dim) + A=255 (Full),255,85,255,85,255,255,223,255,255,Full,pastel magenta,cool,neutral
+881,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=0 (Off),255,85,255,170,0,255,170,255,170,Mid,magenta,cool,neutral
+882,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),255,85,255,170,85,255,201,255,255,Full,pastel magenta,cool,neutral
+883,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),255,85,255,170,170,255,233,255,255,Full,white,neutral,neutral
+884,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=170 (Mid) + A=255 (Full),255,85,255,170,255,255,255,255,255,Full,white,neutral,neutral
+889,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=0 (Off),255,170,0,0,0,255,170,0,170,Mid,red-orange,warm,very-warm
+890,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=85 (Dim),255,170,0,0,85,255,201,0,170,Mid,orange,warm,very-warm
+891,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=170 (Mid),255,170,0,0,170,255,233,0,255,Full,orange,warm,very-warm
+892,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=0 (Off) + A=255 (Full),255,170,0,0,255,255,255,0,255,Full,yellow,warm,very-warm
+893,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=0 (Off),255,170,0,85,0,255,212,42,170,Mid,orange,warm,very-warm
+894,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),255,170,0,85,85,255,244,42,255,Full,orange,warm,very-warm
+895,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),255,170,0,85,170,255,255,42,255,Full,yellow,warm,very-warm
+896,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=85 (Dim) + A=255 (Full),255,170,0,85,255,255,255,42,255,Full,yellow,warm,very-warm
+905,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=0 (Off),255,170,85,0,0,255,170,85,170,Mid,red-orange,warm,warm
+906,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),255,170,85,0,85,255,201,85,170,Mid,orange,warm,warm
+907,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),255,170,85,0,170,255,233,85,255,Full,orange,warm,warm
+908,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=0 (Off) + A=255 (Full),255,170,85,0,255,255,255,85,255,Full,yellow,warm,warm
+921,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=0 (Off),255,170,170,0,0,255,170,170,170,Mid,red,warm,warm
+922,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),255,170,170,0,85,255,201,170,255,Full,red,warm,warm
+923,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),255,170,170,0,170,255,233,170,255,Full,red,warm,warm
+924,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=0 (Off) + A=255 (Full),255,170,170,0,255,255,255,170,255,Full,yellow,warm,warm
+937,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=0 (Off),255,170,255,0,0,255,170,255,170,Mid,magenta,cool,neutral
+938,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=85 (Dim),255,170,255,0,85,255,201,255,255,Full,pastel magenta,cool,neutral
+939,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=170 (Mid),255,170,255,0,170,255,233,255,255,Full,white,neutral,neutral
+940,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=0 (Off) + A=255 (Full),255,170,255,0,255,255,255,255,255,Full,white,neutral,neutral
+167,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=0 (Off),0,170,170,255,0,127,255,255,255,Full,cyan,cool,cool
+168,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),0,170,170,255,85,170,255,255,255,Full,cyan,cool,cool
+169,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),0,170,170,255,170,212,255,255,255,Full,pastel cyan,cool,neutral
+170,R=0 (Off) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=255 (Full),0,170,170,255,255,255,255,255,255,Full,white,neutral,neutral
+183,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=0 (Off),0,170,255,255,0,127,255,255,255,Full,cyan,cool,cool
+184,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=85 (Dim),0,170,255,255,85,170,255,255,255,Full,cyan,cool,cool
+185,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=170 (Mid),0,170,255,255,170,212,255,255,255,Full,pastel cyan,cool,neutral
+186,R=0 (Off) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=255 (Full),0,170,255,255,255,255,255,255,255,Full,white,neutral,neutral
+231,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=0 (Off),0,255,170,255,0,127,255,255,255,Full,cyan,cool,cool
+232,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),0,255,170,255,85,170,255,255,255,Full,cyan,cool,cool
+233,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),0,255,170,255,170,212,255,255,255,Full,pastel cyan,cool,neutral
+234,R=0 (Off) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=255 (Full),0,255,170,255,255,255,255,255,255,Full,white,neutral,neutral
+247,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=0 (Off),0,255,255,255,0,127,255,255,255,Full,cyan,cool,cool
+248,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=85 (Dim),0,255,255,255,85,170,255,255,255,Full,cyan,cool,cool
+249,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=170 (Mid),0,255,255,255,170,212,255,255,255,Full,pastel cyan,cool,neutral
+250,R=0 (Off) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=255 (Full),0,255,255,255,255,255,255,255,255,Full,white,neutral,neutral
+341,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=0 (Off),85,85,85,255,0,212,212,212,255,Full,white,neutral,neutral
+342,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),85,85,85,255,85,255,244,212,255,Full,pastel magenta,cool,neutral
+343,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),85,85,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+344,R=85 (Dim) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=255 (Full),85,85,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+357,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=0 (Off),85,85,170,255,0,212,212,255,255,Full,pastel cyan,cool,neutral
+358,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),85,85,170,255,85,255,244,255,255,Full,white,neutral,neutral
+359,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),85,85,170,255,170,255,255,255,255,Full,white,neutral,neutral
+360,R=85 (Dim) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=255 (Full),85,85,170,255,255,255,255,255,255,Full,white,neutral,neutral
+373,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=0 (Off),85,85,255,255,0,212,212,255,255,Full,pastel cyan,cool,neutral
+374,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=85 (Dim),85,85,255,255,85,255,244,255,255,Full,white,neutral,neutral
+375,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=170 (Mid),85,85,255,255,170,255,255,255,255,Full,white,neutral,neutral
+376,R=85 (Dim) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=255 (Full),85,85,255,255,255,255,255,255,255,Full,white,neutral,neutral
+389,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=0 (Off),85,170,0,255,0,212,255,127,255,Full,yellow-green,warm,warm
+390,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=85 (Dim),85,170,0,255,85,255,255,127,255,Full,yellow,warm,warm
+391,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=170 (Mid),85,170,0,255,170,255,255,127,255,Full,yellow,warm,warm
+392,R=85 (Dim) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=255 (Full),85,170,0,255,255,255,255,127,255,Full,yellow,warm,warm
+401,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),85,170,85,170,0,170,255,170,255,Full,green,cool,neutral
+402,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),85,170,85,170,85,212,255,170,255,Full,green,cool,neutral
+403,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),85,170,85,170,170,255,255,170,255,Full,yellow,warm,warm
+404,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),85,170,85,170,255,255,255,170,255,Full,yellow,warm,warm
+405,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=0 (Off),85,170,85,255,0,212,255,212,255,Full,pastel teal,cool,neutral
+406,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),85,170,85,255,85,255,255,212,255,Full,pastel yellow,warm,neutral
+407,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),85,170,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+408,R=85 (Dim) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=255 (Full),85,170,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+417,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),85,170,170,170,0,170,255,255,255,Full,cyan,cool,cool
+418,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),85,170,170,170,85,212,255,255,255,Full,pastel cyan,cool,neutral
+419,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),85,170,170,170,170,255,255,255,255,Full,white,neutral,neutral
+420,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),85,170,170,170,255,255,255,255,255,Full,white,neutral,neutral
+421,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=0 (Off),85,170,170,255,0,212,255,255,255,Full,pastel cyan,cool,neutral
+422,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),85,170,170,255,85,255,255,255,255,Full,white,neutral,neutral
+423,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),85,170,170,255,170,255,255,255,255,Full,white,neutral,neutral
+424,R=85 (Dim) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=255 (Full),85,170,170,255,255,255,255,255,255,Full,white,neutral,neutral
+433,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=0 (Off),85,170,255,170,0,170,255,255,255,Full,cyan,cool,cool
+434,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),85,170,255,170,85,212,255,255,255,Full,pastel cyan,cool,neutral
+435,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),85,170,255,170,170,255,255,255,255,Full,white,neutral,neutral
+436,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=255 (Full),85,170,255,170,255,255,255,255,255,Full,white,neutral,neutral
+437,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=0 (Off),85,170,255,255,0,212,255,255,255,Full,pastel cyan,cool,neutral
+438,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=85 (Dim),85,170,255,255,85,255,255,255,255,Full,white,neutral,neutral
+439,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=170 (Mid),85,170,255,255,170,255,255,255,255,Full,white,neutral,neutral
+440,R=85 (Dim) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=255 (Full),85,170,255,255,255,255,255,255,255,Full,white,neutral,neutral
+453,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=0 (Off),85,255,0,255,0,212,255,127,255,Full,yellow-green,warm,warm
+454,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=85 (Dim),85,255,0,255,85,255,255,127,255,Full,yellow,warm,warm
+455,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=170 (Mid),85,255,0,255,170,255,255,127,255,Full,yellow,warm,warm
+456,R=85 (Dim) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=255 (Full),85,255,0,255,255,255,255,127,255,Full,yellow,warm,warm
+465,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),85,255,85,170,0,170,255,170,255,Full,green,cool,neutral
+466,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),85,255,85,170,85,212,255,170,255,Full,green,cool,neutral
+467,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),85,255,85,170,170,255,255,170,255,Full,yellow,warm,warm
+468,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),85,255,85,170,255,255,255,170,255,Full,yellow,warm,warm
+469,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=0 (Off),85,255,85,255,0,212,255,212,255,Full,pastel teal,cool,neutral
+470,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),85,255,85,255,85,255,255,212,255,Full,pastel yellow,warm,neutral
+471,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),85,255,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+472,R=85 (Dim) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=255 (Full),85,255,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+481,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),85,255,170,170,0,170,255,255,255,Full,cyan,cool,cool
+482,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),85,255,170,170,85,212,255,255,255,Full,pastel cyan,cool,neutral
+483,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),85,255,170,170,170,255,255,255,255,Full,white,neutral,neutral
+484,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),85,255,170,170,255,255,255,255,255,Full,white,neutral,neutral
+485,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=0 (Off),85,255,170,255,0,212,255,255,255,Full,pastel cyan,cool,neutral
+486,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),85,255,170,255,85,255,255,255,255,Full,white,neutral,neutral
+487,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),85,255,170,255,170,255,255,255,255,Full,white,neutral,neutral
+488,R=85 (Dim) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=255 (Full),85,255,170,255,255,255,255,255,255,Full,white,neutral,neutral
+493,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=0 (Off),85,255,255,85,0,127,255,255,255,Full,cyan,cool,cool
+494,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),85,255,255,85,85,170,255,255,255,Full,cyan,cool,cool
+495,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),85,255,255,85,170,212,255,255,255,Full,pastel cyan,cool,neutral
+496,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=255 (Full),85,255,255,85,255,255,255,255,255,Full,white,neutral,neutral
+497,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=0 (Off),85,255,255,170,0,170,255,255,255,Full,cyan,cool,cool
+498,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),85,255,255,170,85,212,255,255,255,Full,pastel cyan,cool,neutral
+499,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),85,255,255,170,170,255,255,255,255,Full,white,neutral,neutral
+500,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=255 (Full),85,255,255,170,255,255,255,255,255,Full,white,neutral,neutral
+501,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=0 (Off),85,255,255,255,0,212,255,255,255,Full,pastel cyan,cool,neutral
+502,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=85 (Dim),85,255,255,255,85,255,255,255,255,Full,white,neutral,neutral
+503,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=170 (Mid),85,255,255,255,170,255,255,255,255,Full,white,neutral,neutral
+504,R=85 (Dim) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=255 (Full),85,255,255,255,255,255,255,255,255,Full,white,neutral,neutral
+581,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=0 (Off),170,85,0,255,0,255,212,127,255,Full,orange,warm,warm
+582,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=85 (Dim),170,85,0,255,85,255,244,127,255,Full,orange,warm,warm
+583,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=170 (Mid),170,85,0,255,170,255,255,127,255,Full,yellow,warm,warm
+584,R=170 (Mid) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=255 (Full),170,85,0,255,255,255,255,127,255,Full,yellow,warm,warm
+597,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=0 (Off),170,85,85,255,0,255,212,212,255,Full,pastel magenta,cool,neutral
+598,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),170,85,85,255,85,255,244,212,255,Full,pastel magenta,cool,neutral
+599,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),170,85,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+600,R=170 (Mid) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=255 (Full),170,85,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+613,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=0 (Off),170,85,170,255,0,255,212,255,255,Full,pastel magenta,cool,neutral
+614,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),170,85,170,255,85,255,244,255,255,Full,white,neutral,neutral
+615,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),170,85,170,255,170,255,255,255,255,Full,white,neutral,neutral
+616,R=170 (Mid) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=255 (Full),170,85,170,255,255,255,255,255,255,Full,white,neutral,neutral
+629,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=0 (Off),170,85,255,255,0,255,212,255,255,Full,pastel magenta,cool,neutral
+630,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=85 (Dim),170,85,255,255,85,255,244,255,255,Full,white,neutral,neutral
+631,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=170 (Mid),170,85,255,255,170,255,255,255,255,Full,white,neutral,neutral
+632,R=170 (Mid) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=255 (Full),170,85,255,255,255,255,255,255,255,Full,white,neutral,neutral
+641,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=0 (Off),170,170,0,170,0,255,255,85,255,Full,yellow,warm,warm
+642,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),170,170,0,170,85,255,255,85,255,Full,yellow,warm,warm
+643,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),170,170,0,170,170,255,255,85,255,Full,yellow,warm,warm
+644,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=255 (Full),170,170,0,170,255,255,255,85,255,Full,yellow,warm,warm
+645,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=0 (Off),170,170,0,255,0,255,255,127,255,Full,yellow,warm,warm
+646,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=85 (Dim),170,170,0,255,85,255,255,127,255,Full,yellow,warm,warm
+647,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=170 (Mid),170,170,0,255,170,255,255,127,255,Full,yellow,warm,warm
+648,R=170 (Mid) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=255 (Full),170,170,0,255,255,255,255,127,255,Full,yellow,warm,warm
+657,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),170,170,85,170,0,255,255,170,255,Full,yellow,warm,warm
+658,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),170,170,85,170,85,255,255,170,255,Full,yellow,warm,warm
+659,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),170,170,85,170,170,255,255,170,255,Full,yellow,warm,warm
+660,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),170,170,85,170,255,255,255,170,255,Full,yellow,warm,warm
+661,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=0 (Off),170,170,85,255,0,255,255,212,255,Full,pastel yellow,warm,neutral
+662,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),170,170,85,255,85,255,255,212,255,Full,pastel yellow,warm,neutral
+663,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),170,170,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+664,R=170 (Mid) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=255 (Full),170,170,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+669,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),170,170,170,85,0,212,212,212,255,Full,white,neutral,neutral
+670,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),170,170,170,85,85,255,244,212,255,Full,pastel magenta,cool,neutral
+671,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),170,170,170,85,170,255,255,212,255,Full,pastel yellow,warm,neutral
+672,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),170,170,170,85,255,255,255,212,255,Full,pastel yellow,warm,neutral
+673,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),170,170,170,170,0,255,255,255,255,Full,white,neutral,neutral
+674,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),170,170,170,170,85,255,255,255,255,Full,white,neutral,neutral
+675,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),170,170,170,170,170,255,255,255,255,Full,white,neutral,neutral
+676,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),170,170,170,170,255,255,255,255,255,Full,white,neutral,neutral
+677,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=0 (Off),170,170,170,255,0,255,255,255,255,Full,white,neutral,neutral
+678,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),170,170,170,255,85,255,255,255,255,Full,white,neutral,neutral
+679,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),170,170,170,255,170,255,255,255,255,Full,white,neutral,neutral
+680,R=170 (Mid) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=255 (Full),170,170,170,255,255,255,255,255,255,Full,white,neutral,neutral
+685,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=0 (Off),170,170,255,85,0,212,212,255,255,Full,pastel cyan,cool,neutral
+686,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),170,170,255,85,85,255,244,255,255,Full,white,neutral,neutral
+687,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),170,170,255,85,170,255,255,255,255,Full,white,neutral,neutral
+688,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=255 (Full),170,170,255,85,255,255,255,255,255,Full,white,neutral,neutral
+689,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=0 (Off),170,170,255,170,0,255,255,255,255,Full,white,neutral,neutral
+690,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),170,170,255,170,85,255,255,255,255,Full,white,neutral,neutral
+691,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),170,170,255,170,170,255,255,255,255,Full,white,neutral,neutral
+692,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=255 (Full),170,170,255,170,255,255,255,255,255,Full,white,neutral,neutral
+693,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=0 (Off),170,170,255,255,0,255,255,255,255,Full,white,neutral,neutral
+694,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=85 (Dim),170,170,255,255,85,255,255,255,255,Full,white,neutral,neutral
+695,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=170 (Mid),170,170,255,255,170,255,255,255,255,Full,white,neutral,neutral
+696,R=170 (Mid) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=255 (Full),170,170,255,255,255,255,255,255,255,Full,white,neutral,neutral
+701,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=0 (Off),170,255,0,85,0,212,255,42,255,Full,yellow-green,warm,very-warm
+702,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),170,255,0,85,85,255,255,42,255,Full,yellow,warm,very-warm
+703,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),170,255,0,85,170,255,255,42,255,Full,yellow,warm,very-warm
+704,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=255 (Full),170,255,0,85,255,255,255,42,255,Full,yellow,warm,very-warm
+705,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=0 (Off),170,255,0,170,0,255,255,85,255,Full,yellow,warm,warm
+706,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),170,255,0,170,85,255,255,85,255,Full,yellow,warm,warm
+707,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),170,255,0,170,170,255,255,85,255,Full,yellow,warm,warm
+708,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=255 (Full),170,255,0,170,255,255,255,85,255,Full,yellow,warm,warm
+709,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=0 (Off),170,255,0,255,0,255,255,127,255,Full,yellow,warm,warm
+710,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=85 (Dim),170,255,0,255,85,255,255,127,255,Full,yellow,warm,warm
+711,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=170 (Mid),170,255,0,255,170,255,255,127,255,Full,yellow,warm,warm
+712,R=170 (Mid) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=255 (Full),170,255,0,255,255,255,255,127,255,Full,yellow,warm,warm
+717,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),170,255,85,85,0,212,255,127,255,Full,yellow-green,warm,warm
+718,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),170,255,85,85,85,255,255,127,255,Full,yellow,warm,warm
+719,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),170,255,85,85,170,255,255,127,255,Full,yellow,warm,warm
+720,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),170,255,85,85,255,255,255,127,255,Full,yellow,warm,warm
+721,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),170,255,85,170,0,255,255,170,255,Full,yellow,warm,warm
+722,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),170,255,85,170,85,255,255,170,255,Full,yellow,warm,warm
+723,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),170,255,85,170,170,255,255,170,255,Full,yellow,warm,warm
+724,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),170,255,85,170,255,255,255,170,255,Full,yellow,warm,warm
+725,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=0 (Off),170,255,85,255,0,255,255,212,255,Full,pastel yellow,warm,neutral
+726,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),170,255,85,255,85,255,255,212,255,Full,pastel yellow,warm,neutral
+727,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),170,255,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+728,R=170 (Mid) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=255 (Full),170,255,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+729,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=0 (Off),170,255,170,0,0,170,255,170,255,Full,green,cool,neutral
+730,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),170,255,170,0,85,212,255,170,255,Full,green,cool,neutral
+731,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),170,255,170,0,170,255,255,170,255,Full,yellow,warm,warm
+732,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=255 (Full),170,255,170,0,255,255,255,170,255,Full,yellow,warm,warm
+733,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),170,255,170,85,0,212,255,212,255,Full,pastel teal,cool,neutral
+734,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),170,255,170,85,85,255,255,212,255,Full,pastel yellow,warm,neutral
+735,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),170,255,170,85,170,255,255,212,255,Full,pastel yellow,warm,neutral
+736,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),170,255,170,85,255,255,255,212,255,Full,pastel yellow,warm,neutral
+737,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),170,255,170,170,0,255,255,255,255,Full,white,neutral,neutral
+738,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),170,255,170,170,85,255,255,255,255,Full,white,neutral,neutral
+739,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),170,255,170,170,170,255,255,255,255,Full,white,neutral,neutral
+740,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),170,255,170,170,255,255,255,255,255,Full,white,neutral,neutral
+741,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=0 (Off),170,255,170,255,0,255,255,255,255,Full,white,neutral,neutral
+742,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),170,255,170,255,85,255,255,255,255,Full,white,neutral,neutral
+743,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),170,255,170,255,170,255,255,255,255,Full,white,neutral,neutral
+744,R=170 (Mid) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=255 (Full),170,255,170,255,255,255,255,255,255,Full,white,neutral,neutral
+745,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=0 (Off),170,255,255,0,0,170,255,255,255,Full,cyan,cool,cool
+746,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=85 (Dim),170,255,255,0,85,212,255,255,255,Full,pastel cyan,cool,neutral
+747,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=170 (Mid),170,255,255,0,170,255,255,255,255,Full,white,neutral,neutral
+748,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=0 (Off) + A=255 (Full),170,255,255,0,255,255,255,255,255,Full,white,neutral,neutral
+749,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=0 (Off),170,255,255,85,0,212,255,255,255,Full,pastel cyan,cool,neutral
+750,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),170,255,255,85,85,255,255,255,255,Full,white,neutral,neutral
+751,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),170,255,255,85,170,255,255,255,255,Full,white,neutral,neutral
+752,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=85 (Dim) + A=255 (Full),170,255,255,85,255,255,255,255,255,Full,white,neutral,neutral
+753,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=0 (Off),170,255,255,170,0,255,255,255,255,Full,white,neutral,neutral
+754,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),170,255,255,170,85,255,255,255,255,Full,white,neutral,neutral
+755,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),170,255,255,170,170,255,255,255,255,Full,white,neutral,neutral
+756,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=170 (Mid) + A=255 (Full),170,255,255,170,255,255,255,255,255,Full,white,neutral,neutral
+757,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=0 (Off),170,255,255,255,0,255,255,255,255,Full,white,neutral,neutral
+758,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=85 (Dim),170,255,255,255,85,255,255,255,255,Full,white,neutral,neutral
+759,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=170 (Mid),170,255,255,255,170,255,255,255,255,Full,white,neutral,neutral
+760,R=170 (Mid) + G=255 (Full) + B=255 (Full) + W=255 (Full) + A=255 (Full),170,255,255,255,255,255,255,255,255,Full,white,neutral,neutral
+837,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=0 (Off),255,85,0,255,0,255,212,127,255,Full,orange,warm,warm
+838,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=85 (Dim),255,85,0,255,85,255,244,127,255,Full,orange,warm,warm
+839,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=170 (Mid),255,85,0,255,170,255,255,127,255,Full,yellow,warm,warm
+840,R=255 (Full) + G=85 (Dim) + B=0 (Off) + W=255 (Full) + A=255 (Full),255,85,0,255,255,255,255,127,255,Full,yellow,warm,warm
+853,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=0 (Off),255,85,85,255,0,255,212,212,255,Full,pastel magenta,cool,neutral
+854,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),255,85,85,255,85,255,244,212,255,Full,pastel magenta,cool,neutral
+855,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),255,85,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+856,R=255 (Full) + G=85 (Dim) + B=85 (Dim) + W=255 (Full) + A=255 (Full),255,85,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+869,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=0 (Off),255,85,170,255,0,255,212,255,255,Full,pastel magenta,cool,neutral
+870,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),255,85,170,255,85,255,244,255,255,Full,white,neutral,neutral
+871,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),255,85,170,255,170,255,255,255,255,Full,white,neutral,neutral
+872,R=255 (Full) + G=85 (Dim) + B=170 (Mid) + W=255 (Full) + A=255 (Full),255,85,170,255,255,255,255,255,255,Full,white,neutral,neutral
+885,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=0 (Off),255,85,255,255,0,255,212,255,255,Full,pastel magenta,cool,neutral
+886,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=85 (Dim),255,85,255,255,85,255,244,255,255,Full,white,neutral,neutral
+887,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=170 (Mid),255,85,255,255,170,255,255,255,255,Full,white,neutral,neutral
+888,R=255 (Full) + G=85 (Dim) + B=255 (Full) + W=255 (Full) + A=255 (Full),255,85,255,255,255,255,255,255,255,Full,white,neutral,neutral
+897,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=0 (Off),255,170,0,170,0,255,255,85,255,Full,yellow,warm,warm
+898,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),255,170,0,170,85,255,255,85,255,Full,yellow,warm,warm
+899,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),255,170,0,170,170,255,255,85,255,Full,yellow,warm,warm
+900,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=170 (Mid) + A=255 (Full),255,170,0,170,255,255,255,85,255,Full,yellow,warm,warm
+901,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=0 (Off),255,170,0,255,0,255,255,127,255,Full,yellow,warm,warm
+902,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=85 (Dim),255,170,0,255,85,255,255,127,255,Full,yellow,warm,warm
+903,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=170 (Mid),255,170,0,255,170,255,255,127,255,Full,yellow,warm,warm
+904,R=255 (Full) + G=170 (Mid) + B=0 (Off) + W=255 (Full) + A=255 (Full),255,170,0,255,255,255,255,127,255,Full,yellow,warm,warm
+909,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),255,170,85,85,0,255,212,127,255,Full,orange,warm,warm
+910,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),255,170,85,85,85,255,244,127,255,Full,orange,warm,warm
+911,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),255,170,85,85,170,255,255,127,255,Full,yellow,warm,warm
+912,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),255,170,85,85,255,255,255,127,255,Full,yellow,warm,warm
+913,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),255,170,85,170,0,255,255,170,255,Full,yellow,warm,warm
+914,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),255,170,85,170,85,255,255,170,255,Full,yellow,warm,warm
+915,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),255,170,85,170,170,255,255,170,255,Full,yellow,warm,warm
+916,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),255,170,85,170,255,255,255,170,255,Full,yellow,warm,warm
+917,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=0 (Off),255,170,85,255,0,255,255,212,255,Full,pastel yellow,warm,neutral
+918,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),255,170,85,255,85,255,255,212,255,Full,pastel yellow,warm,neutral
+919,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),255,170,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+920,R=255 (Full) + G=170 (Mid) + B=85 (Dim) + W=255 (Full) + A=255 (Full),255,170,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+925,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),255,170,170,85,0,255,212,212,255,Full,pastel magenta,cool,neutral
+926,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),255,170,170,85,85,255,244,212,255,Full,pastel magenta,cool,neutral
+927,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),255,170,170,85,170,255,255,212,255,Full,pastel yellow,warm,neutral
+928,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),255,170,170,85,255,255,255,212,255,Full,pastel yellow,warm,neutral
+929,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),255,170,170,170,0,255,255,255,255,Full,white,neutral,neutral
+930,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),255,170,170,170,85,255,255,255,255,Full,white,neutral,neutral
+931,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),255,170,170,170,170,255,255,255,255,Full,white,neutral,neutral
+932,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),255,170,170,170,255,255,255,255,255,Full,white,neutral,neutral
+933,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=0 (Off),255,170,170,255,0,255,255,255,255,Full,white,neutral,neutral
+934,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),255,170,170,255,85,255,255,255,255,Full,white,neutral,neutral
+935,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),255,170,170,255,170,255,255,255,255,Full,white,neutral,neutral
+936,R=255 (Full) + G=170 (Mid) + B=170 (Mid) + W=255 (Full) + A=255 (Full),255,170,170,255,255,255,255,255,255,Full,white,neutral,neutral
+941,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=0 (Off),255,170,255,85,0,255,212,255,255,Full,pastel magenta,cool,neutral
+942,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=85 (Dim),255,170,255,85,85,255,244,255,255,Full,white,neutral,neutral
+943,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=170 (Mid),255,170,255,85,170,255,255,255,255,Full,white,neutral,neutral
+944,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=85 (Dim) + A=255 (Full),255,170,255,85,255,255,255,255,255,Full,white,neutral,neutral
+945,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=0 (Off),255,170,255,170,0,255,255,255,255,Full,white,neutral,neutral
+946,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=85 (Dim),255,170,255,170,85,255,255,255,255,Full,white,neutral,neutral
+947,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=170 (Mid),255,170,255,170,170,255,255,255,255,Full,white,neutral,neutral
+948,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=170 (Mid) + A=255 (Full),255,170,255,170,255,255,255,255,255,Full,white,neutral,neutral
+949,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=0 (Off),255,170,255,255,0,255,255,255,255,Full,white,neutral,neutral
+950,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=85 (Dim),255,170,255,255,85,255,255,255,255,Full,white,neutral,neutral
+951,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=170 (Mid),255,170,255,255,170,255,255,255,255,Full,white,neutral,neutral
+952,R=255 (Full) + G=170 (Mid) + B=255 (Full) + W=255 (Full) + A=255 (Full),255,170,255,255,255,255,255,255,255,Full,white,neutral,neutral
+953,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=0 (Off),255,255,0,0,0,255,255,0,255,Full,yellow,warm,very-warm
+954,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=85 (Dim),255,255,0,0,85,255,255,0,255,Full,yellow,warm,very-warm
+955,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=170 (Mid),255,255,0,0,170,255,255,0,255,Full,yellow,warm,very-warm
+956,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=0 (Off) + A=255 (Full),255,255,0,0,255,255,255,0,255,Full,yellow,warm,very-warm
+957,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=0 (Off),255,255,0,85,0,255,255,42,255,Full,yellow,warm,very-warm
+958,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=85 (Dim),255,255,0,85,85,255,255,42,255,Full,yellow,warm,very-warm
+959,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=170 (Mid),255,255,0,85,170,255,255,42,255,Full,yellow,warm,very-warm
+960,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=85 (Dim) + A=255 (Full),255,255,0,85,255,255,255,42,255,Full,yellow,warm,very-warm
+961,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=0 (Off),255,255,0,170,0,255,255,85,255,Full,yellow,warm,warm
+962,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=85 (Dim),255,255,0,170,85,255,255,85,255,Full,yellow,warm,warm
+963,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=170 (Mid),255,255,0,170,170,255,255,85,255,Full,yellow,warm,warm
+964,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=170 (Mid) + A=255 (Full),255,255,0,170,255,255,255,85,255,Full,yellow,warm,warm
+965,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=0 (Off),255,255,0,255,0,255,255,127,255,Full,yellow,warm,warm
+966,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=85 (Dim),255,255,0,255,85,255,255,127,255,Full,yellow,warm,warm
+967,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=170 (Mid),255,255,0,255,170,255,255,127,255,Full,yellow,warm,warm
+968,R=255 (Full) + G=255 (Full) + B=0 (Off) + W=255 (Full) + A=255 (Full),255,255,0,255,255,255,255,127,255,Full,yellow,warm,warm
+969,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=0 (Off),255,255,85,0,0,255,255,85,255,Full,yellow,warm,warm
+970,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=85 (Dim),255,255,85,0,85,255,255,85,255,Full,yellow,warm,warm
+971,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=170 (Mid),255,255,85,0,170,255,255,85,255,Full,yellow,warm,warm
+972,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=0 (Off) + A=255 (Full),255,255,85,0,255,255,255,85,255,Full,yellow,warm,warm
+973,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=0 (Off),255,255,85,85,0,255,255,127,255,Full,yellow,warm,warm
+974,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=85 (Dim),255,255,85,85,85,255,255,127,255,Full,yellow,warm,warm
+975,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=170 (Mid),255,255,85,85,170,255,255,127,255,Full,yellow,warm,warm
+976,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=85 (Dim) + A=255 (Full),255,255,85,85,255,255,255,127,255,Full,yellow,warm,warm
+977,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=0 (Off),255,255,85,170,0,255,255,170,255,Full,yellow,warm,warm
+978,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=85 (Dim),255,255,85,170,85,255,255,170,255,Full,yellow,warm,warm
+979,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=170 (Mid),255,255,85,170,170,255,255,170,255,Full,yellow,warm,warm
+980,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=170 (Mid) + A=255 (Full),255,255,85,170,255,255,255,170,255,Full,yellow,warm,warm
+981,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=0 (Off),255,255,85,255,0,255,255,212,255,Full,pastel yellow,warm,neutral
+982,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=85 (Dim),255,255,85,255,85,255,255,212,255,Full,pastel yellow,warm,neutral
+983,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=170 (Mid),255,255,85,255,170,255,255,212,255,Full,pastel yellow,warm,neutral
+984,R=255 (Full) + G=255 (Full) + B=85 (Dim) + W=255 (Full) + A=255 (Full),255,255,85,255,255,255,255,212,255,Full,pastel yellow,warm,neutral
+985,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=0 (Off),255,255,170,0,0,255,255,170,255,Full,yellow,warm,warm
+986,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=85 (Dim),255,255,170,0,85,255,255,170,255,Full,yellow,warm,warm
+987,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=170 (Mid),255,255,170,0,170,255,255,170,255,Full,yellow,warm,warm
+988,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=0 (Off) + A=255 (Full),255,255,170,0,255,255,255,170,255,Full,yellow,warm,warm
+989,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=0 (Off),255,255,170,85,0,255,255,212,255,Full,pastel yellow,warm,neutral
+990,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=85 (Dim),255,255,170,85,85,255,255,212,255,Full,pastel yellow,warm,neutral
+991,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=170 (Mid),255,255,170,85,170,255,255,212,255,Full,pastel yellow,warm,neutral
+992,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=85 (Dim) + A=255 (Full),255,255,170,85,255,255,255,212,255,Full,pastel yellow,warm,neutral
+993,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=0 (Off),255,255,170,170,0,255,255,255,255,Full,white,neutral,neutral
+994,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=85 (Dim),255,255,170,170,85,255,255,255,255,Full,white,neutral,neutral
+995,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=170 (Mid),255,255,170,170,170,255,255,255,255,Full,white,neutral,neutral
+996,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=170 (Mid) + A=255 (Full),255,255,170,170,255,255,255,255,255,Full,white,neutral,neutral
+997,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=0 (Off),255,255,170,255,0,255,255,255,255,Full,white,neutral,neutral
+998,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=85 (Dim),255,255,170,255,85,255,255,255,255,Full,white,neutral,neutral
+999,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=170 (Mid),255,255,170,255,170,255,255,255,255,Full,white,neutral,neutral
+1000,R=255 (Full) + G=255 (Full) + B=170 (Mid) + W=255 (Full) + A=255 (Full),255,255,170,255,255,255,255,255,255,Full,white,neutral,neutral
